@@ -31,3 +31,5 @@ Python (ext/.py)
 python3 comprescore.py
 ```
 ## SNAPSHOTS
+![Snapshot 1](https://github.com/Hyper-Programmer/Comprescore/blob/master/Snapshots/Screenshot%20(50).png)
+![Snapshot 2](https://github.com/Hyper-Programmer/Comprescore/blob/master/Snapshots/Screenshot%20(51).png)
